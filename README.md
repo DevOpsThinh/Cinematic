@@ -17,5 +17,5 @@ ________________________________________________________________________________
 Someone with no prior design experience or training; or no familiarity with specialized design tools
 like PS, Sketch or Figma
 # Importance:
-This project is based on a learning material. Therefore, I am not responsible for any copyright issues
-if you put it on these mobile application market: Google Play Store or Apple Store. 
+This project is based on learning material. Therefore, I am not responsible for any copyright issues
+if you put them on these mobile application markets: Google Play Store or Apple Store. 
